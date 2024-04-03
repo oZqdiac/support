@@ -1,5 +1,5 @@
-# Skyblock Crate Keys
-In Skyblock, crate keys can be used to obtain in-game items. There are four types of crate keys:
+# Goofy Ahh Crate Keys
+In Goofy Ahh, crate keys can be used to obtain in-game items. There are four types of crate keys:
 - Voter Keys
 - Common Keys
 - Rare Keys
@@ -71,3 +71,5 @@ The weights defined for each item are as follows:
 - Power Shards, random amount (weight: 15)
 - Lucky Shards, random amount (weight: 15)
 - 1x Money Pouch, $20,000-$40,000 (weight: 20)
+- Billy Flowers
+- men
